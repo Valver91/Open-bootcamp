@@ -1,5 +1,5 @@
 # Open-bootcamp
-En este repositorio cuelgo todos los ejercicios realizados en el bootcamp de FullStack.
+En este repositorio cuelgo todos los ejercicios realizados.
 
 ·Introduccion a la Programación
 
