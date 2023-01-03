@@ -56,7 +56,6 @@ deberá mostrarse por pantalla.
 numeroFor = 0
 numeroForImp = []
 
-
 if numeroFor < 3 or numeroFor > 3:
     numeroFor += 1
     numeroForImp.append(numeroFor)
