@@ -1,3 +1,3 @@
-saludo = "Hola mundo!"
+saludo = input("Introduce saludo: ")
 
 print(saludo)
