@@ -11,3 +11,6 @@ En este repositorio cuelgo todos los ejercicios realizados durante los cursos.
 ·Python:
 
     Ejercicio 1
+    Ejercicio 2
+    Ejercicio 3
+    Ejercicio 4
