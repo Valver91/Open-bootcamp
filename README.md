@@ -5,3 +5,5 @@ En este repositorio cuelgo todos los ejercicios realizados.
 
     Ejercicios Tema 3
     Ejercicios Tema 4
+    Ejercicios Tema 8
+    Ejercicios Tema 9
