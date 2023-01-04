@@ -16,3 +16,4 @@ En este repositorio cuelgo todos los ejercicios realizados durante los cursos.
     Tema 4 Ejercicio 1
     Tema 5 Ejercicio 1
     Tema 6 Ejercicio 1, Ejercicio 2
+    Tema 7 Ejercicio 1, Ejercicio 2
