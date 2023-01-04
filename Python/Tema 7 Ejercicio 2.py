@@ -9,18 +9,12 @@
 
 import time
 
-hora_segundos = time.time()
-hora_local = time.localtime(hora_segundos)
-hora = hora_local.tm_hour
-minutos = hora_local.tm_min
-segundos = hora_local.tm_sec
-hora_sistema = f"{hora}:{minutos}:{segundos}"
+current_time = time.localtime()
 
-if hora_sistema >= f"19:00:00" or hora_sistema <= f"09:00:00":
+if current_time.tm_hour >= 19:
     print("Horario no laboral")
-elif hora_sistema <= f"19:00:00" or hora_sistema >= f"09:00:00":
-    hora_final = f"19:00:00"
-    hora_restante = hora_final - hora_sistema
+else:
+    print("Es horario laboral")
 
-    print("Estas en horario laboral")
-    print(f"Quedan {hora_restante} de trabajo")
+time_left = 19 - current_time.tm_hour
+print(f"Aún quedan {time_left} horas de trabajo")
