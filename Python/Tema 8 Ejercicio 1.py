@@ -4,8 +4,6 @@
  tendréis que acceder dos veces al archivo creado.
 """
 
-import os
-from pathlib import Path
-from os import system
-
-ruta = Path("C:\Users\SFV Mecanizados\Desktop")
+archivo = open('prueba.txt', 'w')
+archivo.write('Soy la prueba de que el programa escribe en el archivo')
+archivo.close()

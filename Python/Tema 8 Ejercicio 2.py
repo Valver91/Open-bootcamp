@@ -4,3 +4,10 @@
  en un archivo y luego lo cargamos.
 """
 
+archivo = open('prueba.py', 'w')
+
+archivo.write("""class vehiculo:
+    def __init__(self):
+        pass""")
+
+archivo.close()
