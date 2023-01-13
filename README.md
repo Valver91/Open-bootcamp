@@ -10,7 +10,7 @@ En este repositorio cuelgo todos los ejercicios realizados durante los cursos.
 
 ·Python:
 
-    Tema 1 ejercicio 1
+    Tema 1 Ejercicio 1
     Tema 2 Ejercicio 1
     Tema 3 Ejercicio 1
     Tema 4 Ejercicio 1
@@ -22,3 +22,6 @@ En este repositorio cuelgo todos los ejercicios realizados durante los cursos.
     Tema 10 Ejercicio 1, Ejercicio 2
     Tema 11 Ejercicio 1
     Tema 12 Ejercicio 1
+
+·C#:
+    Sesion 1 Ejercicios 1, 2
