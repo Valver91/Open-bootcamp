@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programacion\\Curso C#\\holamundo\\holamundo.csproj",
-      "projectName": "holamundo",
-      "projectPath": "D:\\Programacion\\Curso C#\\holamundo\\holamundo.csproj",
+      "projectUniqueName": "D:\\Programacion\\Librerias\\Repositorios GIT\\Open-bootcamp\\C#\\C#.csproj",
+      "projectName": "C#",
+      "projectPath": "D:\\Programacion\\Librerias\\Repositorios GIT\\Open-bootcamp\\C#\\C#.csproj",
       "packagesPath": "C:\\Users\\SFV Mecanizados\\.nuget\\packages\\",
-      "outputPath": "D:\\Programacion\\Curso C#\\holamundo\\obj\\",
+      "outputPath": "D:\\Programacion\\Librerias\\Repositorios GIT\\Open-bootcamp\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
