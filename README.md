@@ -26,3 +26,4 @@ En este repositorio cuelgo todos los ejercicios realizados durante los cursos.
 ·C#:
 
     Sesion 1 Ejercicios 1, 2
+    Sesion 2 Ejercicios 1, 2, 3
